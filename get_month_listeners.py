@@ -28,4 +28,3 @@ def get_month_listeners(id_artist):
             "artistImage": artist_img
         }
 
-get_month_listeners("6Nl4VXcX86fBMO4YE6oYfN")
